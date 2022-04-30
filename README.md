@@ -1,4 +1,4 @@
-**# Assignment 9: Clustering
+# Assignment 9: Clustering
 
 ## Group Members
 
