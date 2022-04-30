@@ -22,4 +22,6 @@ file.
 • take and attach a screen shot of your solution  
 ![Billede](https://github.com/Jean-Poul/Assignment-9-Clustering/blob/main/Udklip1.PNG)
 3. Describe the difference between K-means and Mean Shift algorithms  
+K-means and Mean-shift are both used in unsupervised learning which are used for clustering. The difference between them is that with K-means you will have to specify the number of clusters while the Mean-shift algorithm will determin this by itself.  
+*Mean-shift* will make clusters from a centriod and iterate this until it hit the area with the most density within a specific radius. An advanteges with K-shift is that it only needs a parameter called bandwidth, which will determin the optimal number of clusters.
 • in which occasions would you prefer to use the mean shift algorithm?  
