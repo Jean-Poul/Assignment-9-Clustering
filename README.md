@@ -20,5 +20,6 @@ file.
 • create simple web application that can deploy and run the model as seen in class  
 • run the application for predicting the cluster of a data set  
 • take and attach a screen shot of your solution  
+![Billede](https://github.com/Jean-Poul/Assignment-9-Clustering/blob/main/Udklip1.PNG)
 3. Describe the difference between K-means and Mean Shift algorithms  
 • in which occasions would you prefer to use the mean shift algorithm?  
