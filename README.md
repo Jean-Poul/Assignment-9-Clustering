@@ -1,5 +1,13 @@
-Assignment 9: Clustering
-The objective:
+**# Assignment 9: Clustering
+
+## Group Members
+
+- Allan Bo Simonsen, cph-as484
+- Jean-Poul Leth-Møller, cph-jl360
+- Nina Lisakowski, cph-nl163
+
+
+#### The objective:
 Practicing unsupervised machine learning: clustering.
 The tasks:
 1. In Exercise 1 we used Hierarchical clustering algorithm.
